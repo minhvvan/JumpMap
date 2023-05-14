@@ -1,5 +1,5 @@
 # JumpMap
-> 설명
+> Overlap Event를 활용한 JumpMap Game 구현
 
 ## Tech Stack
 <p>
